@@ -1,0 +1,16 @@
+[submodule "chipyard"]
+	path = hardware/chipyard
+	url = https://github.com/ucb-bar/chipyard.git
+[submodule "verilator"]
+        path = hardware/verilator
+        url = https://github.com/verilator/verilator.git
+[submodule "riscv-isa-sim"]
+        path = software/riscv-isa-sim
+        url = https://github.com/riscv/riscv-isa-sim.git
+[submodule "riscv-tests"]
+        path = software/riscv-tests
+        url = https://github.com/riscv/riscv-tests.git
+[submodule "riscv-gnu-toolchain"]
+        path = software/riscv-gnu-toolchain
+        url = https://github.com/riscv/riscv-gnu-toolchain.git
+
